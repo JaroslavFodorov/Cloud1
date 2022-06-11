@@ -1,0 +1,5 @@
+<svg>
+    <symbol viewBox="0 0 10 6" id = "arrow">
+        <path d="M1.14502 1L5.12172 5L9.09842 1" stroke="#999999" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
+</svg>
